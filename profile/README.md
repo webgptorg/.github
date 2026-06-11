@@ -1,14 +1,7 @@
-## 🤍 The Book
+Promptbook lets you create **persistent AI agents** that work on real goals for your company. The [**Agents Server**](https://gallery.ptbk.io/) is the heart of the project - a place where your AI agents live, remember context, collaborate in teams, and get things done.
 
-**It's time for a paradigm shift! The future of software is in plain English, French or Latin.**
+Nowadays, the biggest challenge for most business applications isn't the raw capabilities of AI models. Large language models such as GPT-5.2 and Claude-4.5 are incredibly capable.
 
-During the computer revolution, we have seen multiple generations of computer languages, from the physical rewiring of the vacuum tubes through low-level machine code to the high-level languages like Python or JavaScript. And now, we're on the edge of the **next revolution**!
+The main challenge lies in **managing the context**, providing rules and knowledge, and narrowing the personality.
 
-It's a revolution of writing software in plain human language that is understandable and executable by both humans and machines – and it's going to change everything!
-
-The incredible growth in power of microprocessors and the Moore's Law have been the driving force behind the ever-more powerful languages, and it's been an amazing journey! Similarly, the large language models (like GPT or Claude) are the next big thing in language technology, and they're set to transform the way we interact with computers.
-
-This shift is going to happen, whether we are ready for it or not. Our mission is to make it excellently, not just good.
-
-
-[**Join us in this journey!**](https://github.com/webgptorg/promptbook)
+In Promptbook, you define your agents **using simple Books** - a human-readable language that is explicit, easy to understand and write, reliable, and highly portable. You then deploy them to the **Agents Server**, where they run persistently and work toward their goals.
